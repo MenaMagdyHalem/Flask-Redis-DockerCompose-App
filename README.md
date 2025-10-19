@@ -68,11 +68,12 @@ docker-compose down
 ```
 ---
 
-##🧠 How It Works
-Flask App (app.py) connects to the Redis service.
-Redis stores a key called hits that tracks the visit count.
-Each time the user visits the page, Flask increments the counter and displays the total.
-Docker Compose manages both containers — web and redis.
+## 🧠 How It Works  
+Flask App (`app.py`) connects to the **Redis** service.  
+Redis stores a key called `hits` that tracks the visit count.  
+Each time the user visits the page, Flask increments the counter and displays the total.  
+**Docker Compose** manages both containers — `web` and `redis`.  
+
 ---
 
 ## 👨‍💻 Author
