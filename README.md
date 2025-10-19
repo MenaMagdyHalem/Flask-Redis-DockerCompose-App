@@ -77,7 +77,7 @@ Each time the user visits the page, Flask increments the counter and displays th
 ---
 
 ## 👨‍💻 Author
-Mena Magdy Halem
+Mena Magdy Halem <br>
 Instructor & DevOps Engineer
 
 
